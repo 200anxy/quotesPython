@@ -10,3 +10,4 @@ random_quote = random.choice(quotes)
 
 print(random_quote)
 x.close()
+#test commit
